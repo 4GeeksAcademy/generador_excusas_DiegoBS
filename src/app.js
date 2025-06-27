@@ -3,8 +3,6 @@ const action = ['ate ', 'peed ', 'crushed ', 'broke ','stole ','destroyed with a
 const what = ['my homework ', 'my phone ', 'the car ', 'my house ','the road ','my neighbourhood ','my existance ','everything ','the Canary Islands ','a cliff ','Mordor ','my computer ','the moon ','the sun '];
 const when = ['before the class.', 'when I was sleeping.', 'while I was exercising.', 'during my lunch.', 'while I was praying.','while I was taking a shower.','while deactivating a bomb.','while producing a new album.','while filming a documentary about penguins.','while I was practising JavaScript'];
 
-
-
 function generateExcuse() {
   let arrayWho = who[Math.floor(Math.random() * who.length)];
   let arrayAction = action[Math.floor(Math.random() * action.length)];
