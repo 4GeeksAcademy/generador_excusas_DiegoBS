@@ -1,7 +1,3 @@
-import "bootstrap";
-import "./style.css";
-import "./assets/img/4geeks.ico";
-
 const who = ['The dog ','My grandma ','The mailman ','My bird ','A dinosaur ','A cat ','A little kid ','Batman ', 'A giant robot ','An alien ','The devil ','The entire population of Madagascar ','A chinese old lady ','Elon Musk ','Bad Bunny ','Mickey Mouse ','The Lich King ','Jehovah witnesses '];
 const action = ['ate ', 'peed ', 'crushed ', 'broke ','stole ','destroyed with a laser ','cut in half ','reduced to atoms ','exploded with a bomb ','sold ', 'made me question the meaning of ','turned into a sheep ','made me make a realistic miniature of ','convinced me to plot against ','dragonpunched '];
 const what = ['my homework ', 'my phone ', 'the car ', 'my house ','the road ','my neighbourhood ','my existance ','everything ','the Canary Islands ','a cliff ','Mordor ','my computer ','the moon ','the sun '];
